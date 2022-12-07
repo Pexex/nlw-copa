@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/pexex/nlw-copa/logo.svg" alt="NLW Copa" width="200"/>
+   <img src="https://github.com/Pexex/nlw-copa/blob/main/logo.svg" alt="NLW Copa" width="200"/>
 </p>
 
 <p align="center">
